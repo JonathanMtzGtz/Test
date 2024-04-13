@@ -1,9 +1,9 @@
 const cacheName = "web-Portfolio-0.1";
 const contentToCache = [
-    "Build/webgl.loader.js",
-    "Build/webgl.framework.js",
-    "Build/webgl.data",
-    "Build/webgl.wasm",
+    "Build/htdocs.loader.js",
+    "Build/htdocs.framework.js",
+    "Build/htdocs.data",
+    "Build/htdocs.wasm",
     "TemplateData/style.css"
 
 ];
